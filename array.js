@@ -228,8 +228,6 @@ Array.SIZE_RATIO = 3;
 
 // console.log(maxSum([4, 6, -3, 5, -2, 1]));
 
-// console.log(maxSum([4, 6, -3, 5, -2, 1]));
-
 
 // 8.)(Merge Arrays)
 
